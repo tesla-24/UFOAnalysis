@@ -13,6 +13,8 @@ This repository contains the following files ;
 - **UFOAnalysis.ipynb** - This ipython notebook contains the code for the analysis of data.
 - **UFO_scrubbed.csv** -  This csv files contains the data about UFO sightings.
 - **alien_movies.csv** - This csv files contains data about films containing extraterrestrials.
+## Summary
+This analysis provided me with insights which will help me take better decisions to setup an UFO observatory. California came out to be the most suitable place to setup an observatory. Most of the UFO sightings were observed at night. Hence we need to equip the observatory with appropriate tools which will be effective at night. Most of the observations of the UFO were illuminating objects. Hence we will need tools and techniques which can clearly capture the shape of the UFO in illuminating conditions. I have documented the observations with visualization in the blog mentioned below
 ## Blog post
 https://medium.com/@yogielectron/what-is-needed-to-setup-an-ufo-observatory-3741f848c55f
 ## Resources
